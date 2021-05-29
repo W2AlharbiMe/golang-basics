@@ -13,7 +13,7 @@ my walk through over [Go Language](https://golang.org/) with the net ninja 😎
 
 ## 📜 Topics
 
-- [ ] Variables, Strings, Numbers
+- [x] Variables, Strings, Numbers
 - [ ] Printing & Formatting
 - [ ] Arrays & Slices
 - [ ] The Standard Library
