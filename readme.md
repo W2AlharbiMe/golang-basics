@@ -1,8 +1,8 @@
-## Go-lang basics
+## 👩🏻‍💻 Go-lang basics
 
 my walk through over [Go Language](https://golang.org/) with the net ninja 😎
 
-## a little bit about Golang
+## 🔭 a little bit about Golang
 
 - Go is built by google engineers
 - Go is a "fast, statically typed, compiled language"
@@ -11,7 +11,7 @@ my walk through over [Go Language](https://golang.org/) with the net ninja 😎
 - Go is an object-oriented language (in it's own way)
 - more? check out [the official website](https://golang.org/)
 
-## Topics
+## 📜 Topics
 
 - [ ] Variables, Strings, Numbers
 - [ ] Printing & Formatting
@@ -23,7 +23,7 @@ my walk through over [Go Language](https://golang.org/) with the net ninja 😎
 - [ ] Multiple Return Values <br />
       and more...
 
-### Final Project
+### 💎 Final Project
 
 the final project will be a Command Line Interface(CLI) tool for managing Bills
 
